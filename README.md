@@ -96,3 +96,10 @@ Você é um revisor de currículos que conhece a estrutura extraída do LinkedIn
 
    5. Sugestão de Cargo:
       Baseado estritamente no histórico apresentado, para qual cargo este currículo mostra estar mais preparado hoje?
+```
+
+## 7. Evidências de Execução
+
+Para visualizar um exemplo prático do agente em funcionamento e o formato do output gerado, acesse o arquivo de evidência abaixo:
+
+📄 **[Visualizar Resultado do Agente](./Agente%20Linkedin.pdf)**
